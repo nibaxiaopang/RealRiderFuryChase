@@ -8,7 +8,7 @@
 import UIKit
 
 @IBDesignable
-class CustomCornerView: UIView {
+class RealRiderCustomCornerView: UIView {
     
     @IBInspectable var topLeftCornerRadius: Bool = false {
         didSet {

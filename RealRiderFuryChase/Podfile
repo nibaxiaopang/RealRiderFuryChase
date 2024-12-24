@@ -7,4 +7,6 @@ target 'RealRiderFuryChase' do
 
   # Pods for RealRiderFuryChase
   pod 'IQKeyboardManagerSwift'
+  pod 'Firebase/Messaging'
+  pod 'AppsFlyerFramework'
 end

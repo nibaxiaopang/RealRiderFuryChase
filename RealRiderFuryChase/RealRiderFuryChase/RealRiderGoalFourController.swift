@@ -8,7 +8,7 @@
 
 import UIKit
 
-class GoalFourVC: UIViewController {
+class RealRiderGoalFourController: UIViewController {
     
     @IBOutlet weak var colorCollectionView: UICollectionView!
     @IBOutlet weak var flowLabel: UILabel!
@@ -117,7 +117,7 @@ class GoalFourVC: UIViewController {
     }
 }
 
-extension GoalFourVC: UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
+extension RealRiderGoalFourController: UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
     
     func numberOfSections(in collectionView: UICollectionView) -> Int {
         return rows
@@ -128,7 +128,7 @@ extension GoalFourVC: UICollectionViewDelegate, UICollectionViewDataSource, UICo
     }
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
-        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "ColorCell", for: indexPath) as! ColorCell
+        let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "ColorCell", for: indexPath) as! RealRiderColorCell
         cell.colorView.backgroundColor = grid[indexPath.section][indexPath.item] ?? .clear
         //cell.layer.masksToBounds = true
         return cell

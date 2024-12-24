@@ -8,7 +8,7 @@
 
 import Foundation
 
-struct PuzzelFile {
+struct RealRiderPuzzelFile {
     let level: Int
     let image: [String]
 }

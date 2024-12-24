@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ColorCell : UICollectionViewCell {
+class RealRiderColorCell : UICollectionViewCell {
     
     @IBOutlet weak var colorView: UIView!
     

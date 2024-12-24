@@ -8,7 +8,7 @@
 
 import UIKit
 
-class PuzzelsGameVC: UIViewController {
+class RealRiderPuzzelsGameController: UIViewController {
     
     @IBOutlet weak var puzzelCollectionView: UICollectionView!
     @IBOutlet weak var levelsCollectionView: UICollectionView!
@@ -60,7 +60,7 @@ class PuzzelsGameVC: UIViewController {
 }
 
 
-extension PuzzelsGameVC: UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
+extension RealRiderPuzzelsGameController: UICollectionViewDelegate, UICollectionViewDataSource, UICollectionViewDelegateFlowLayout {
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         if collectionView == puzzelCollectionView {
@@ -73,7 +73,7 @@ extension PuzzelsGameVC: UICollectionViewDelegate, UICollectionViewDataSource, U
     
     func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath: IndexPath) -> UICollectionViewCell {
         if collectionView == puzzelCollectionView {
-            guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "PuzzelCell", for: indexPath) as? PuzzelCell else {
+            guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "PuzzelCell", for: indexPath) as? RealRiderPuzzelCell else {
                 return UICollectionViewCell()
             }
             
@@ -82,7 +82,7 @@ extension PuzzelsGameVC: UICollectionViewDelegate, UICollectionViewDataSource, U
             cell.srLabel.text = "\(indexPath.row + 1)"
             return cell
         } else if collectionView == levelsCollectionView {
-            guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "LevelCell", for: indexPath) as? LevelCell else {
+            guard let cell = collectionView.dequeueReusableCell(withReuseIdentifier: "LevelCell", for: indexPath) as? RealRiderLevelCell else {
                 return UICollectionViewCell()
             }
             

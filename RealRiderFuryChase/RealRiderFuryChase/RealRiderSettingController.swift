@@ -9,7 +9,7 @@
 import UIKit
 
 
-class Setting : UIViewController{
+class RealRiderSettingController : UIViewController{
     
     
     override func viewDidLoad() {

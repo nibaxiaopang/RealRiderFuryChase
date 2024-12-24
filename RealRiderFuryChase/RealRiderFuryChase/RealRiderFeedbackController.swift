@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FeedbackViewController: UIViewController {
+class RealRiderFeedbackController: UIViewController {
 
     // MARK: - Outlets
     @IBOutlet weak var titleLabel: UILabel!           // Feedback title
@@ -90,7 +90,7 @@ class FeedbackViewController: UIViewController {
 }
 
 // MARK: - UITextView Delegate
-extension FeedbackViewController: UITextViewDelegate {
+extension RealRiderFeedbackController: UITextViewDelegate {
     func textViewDidBeginEditing(_ textView: UITextView) {
         if textView.text == "Enter your feedback here..." {
             textView.text = ""

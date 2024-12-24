@@ -1,0 +1,78 @@
+
+/* Class = "UILabel"; text = "ABOUT US"; ObjectID = "0kB-SA-1Fg"; */
+"0kB-SA-1Fg.text" = "ABOUT US";
+
+/* Class = "UILabel"; text = "MY PUZZEL"; ObjectID = "1Pf-w0-y8Y"; */
+"1Pf-w0-y8Y.text" = "MY PUZZEL";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "4h1-WO-MJj"; */
+"4h1-WO-MJj.text" = "Feedback";
+
+/* Class = "UILabel"; text = "SETTING"; ObjectID = "7N1-dK-Z16"; */
+"7N1-dK-Z16.text" = "SETTING";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Df1-Hg-XTt"; */
+"Df1-Hg-XTt.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "MENU"; ObjectID = "MJU-1E-f60"; */
+"MJU-1E-f60.text" = "MENU";
+
+/* Class = "UILabel"; text = "TURNS : 50"; ObjectID = "NNQ-Zb-qMI"; */
+"NNQ-Zb-qMI.text" = "TURNS : 50";
+
+/* Class = "UILabel"; text = "FEEDBACK"; ObjectID = "NWA-rh-RIp"; */
+"NWA-rh-RIp.text" = "FEEDBACK";
+
+/* Class = "UILabel"; text = "Feel the rush, own the chase, be the legend."; ObjectID = "PzG-qv-kER"; */
+"PzG-qv-kER.text" = "Feel the rush, own the chase, be the legend.";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "Rau-9W-jJi"; */
+"Rau-9W-jJi.text" = "About Us";
+
+/* Class = "UILabel"; text = "FILLED"; ObjectID = "UUs-rI-qhZ"; */
+"UUs-rI-qhZ.text" = "FILLED";
+
+/* Class = "UILabel"; text = "SOLVED PUZZEL"; ObjectID = "ZDT-mX-Bti"; */
+"ZDT-mX-Bti.text" = "SOLVED PUZZEL";
+
+/* Class = "UITextView"; text = "About Us: RealRider Fury Chase\n\nWelcome to RealRider Fury Chase, the ultimate hub for adrenaline-fueled, heart-pounding gaming adventures! Our app combines thrilling gameplay, innovative mechanics, and stunning visuals to deliver an unforgettable experience for gamers of all ages. Whether you’re dodging obstacles, solving puzzles, or strategizing your moves, RealRider Fury Chase offers a dynamic and immersive escape into a world of challenges and excitement.\n\nAt RealRider Fury Chase, we believe in creating games that push the limits of creativity and skill. With each game, you’ll encounter unique challenges that test your reflexes, strategic thinking, and problem-solving abilities, ensuring hours of entertainment and replay value.\n\nOur Games Include:\n\t•\tHighway Survival\nTest your reflexes in a high-speed race against time. Dodge traffic, evade obstacles, and collect points as you blaze through treacherous highways. Only the most agile and focused riders will emerge victorious!\n\t•\tDraw to Win\nUnleash your creativity and solve intricate puzzles! Strategically draw lines to guide your vehicle to safety while avoiding hazards. Each line you draw is a step closer to victory.\n\t•\tBarrier Blitz\nStay sharp and act quickly! Use barriers to block incoming obstacles and protect your rider. With every level, the stakes get higher, and the obstacles become more unpredictable.\n"; ObjectID = "aho-yf-fHT"; */
+"aho-yf-fHT.text" = "About Us: RealRider Fury Chase\n\nWelcome to RealRider Fury Chase, the ultimate hub for adrenaline-fueled, heart-pounding gaming adventures! Our app combines thrilling gameplay, innovative mechanics, and stunning visuals to deliver an unforgettable experience for gamers of all ages. Whether you’re dodging obstacles, solving puzzles, or strategizing your moves, RealRider Fury Chase offers a dynamic and immersive escape into a world of challenges and excitement.\n\nAt RealRider Fury Chase, we believe in creating games that push the limits of creativity and skill. With each game, you’ll encounter unique challenges that test your reflexes, strategic thinking, and problem-solving abilities, ensuring hours of entertainment and replay value.\n\nOur Games Include:\n\t•\tHighway Survival\nTest your reflexes in a high-speed race against time. Dodge traffic, evade obstacles, and collect points as you blaze through treacherous highways. Only the most agile and focused riders will emerge victorious!\n\t•\tDraw to Win\nUnleash your creativity and solve intricate puzzles! Strategically draw lines to guide your vehicle to safety while avoiding hazards. Each line you draw is a step closer to victory.\n\t•\tBarrier Blitz\nStay sharp and act quickly! Use barriers to block incoming obstacles and protect your rider. With every level, the stakes get higher, and the obstacles become more unpredictable.\n";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bWN-6J-QH6"; */
+"bWN-6J-QH6.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bum-Q5-4na"; */
+"bum-Q5-4na.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "PRIVACY POLICY"; ObjectID = "fQa-e9-8ey"; */
+"fQa-e9-8ey.text" = "PRIVACY POLICY";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jSI-YV-QaZ"; */
+"jSI-YV-QaZ.text" = "Label";
+
+/* Class = "UILabel"; text = "SOLVED PUZZEL"; ObjectID = "k3U-ge-hij"; */
+"k3U-ge-hij.text" = "SOLVED PUZZEL";
+
+/* Class = "UILabel"; text = "FILLED"; ObjectID = "mGM-KG-pVY"; */
+"mGM-KG-pVY.text" = "FILLED";
+
+/* Class = "UILabel"; text = "LEVELS : 1"; ObjectID = "oQB-kn-vmB"; */
+"oQB-kn-vmB.text" = "LEVELS : 1";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "p6W-70-KWG"; */
+"p6W-70-KWG.text" = "1";
+
+/* Class = "UILabel"; text = "EMPTY"; ObjectID = "q9A-9f-iRK"; */
+"q9A-9f-iRK.text" = "EMPTY";
+
+/* Class = "UILabel"; text = "MY VOLVO"; ObjectID = "qqg-h4-TgQ"; */
+"qqg-h4-TgQ.text" = "MY VOLVO";
+
+/* Class = "UILabel"; text = "LEVELS : 1"; ObjectID = "tpn-sN-De8"; */
+"tpn-sN-De8.text" = "LEVELS : 1";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "vHN-ih-5Wp"; */
+"vHN-ih-5Wp.text" = "Privacy Policy";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "xMw-sL-HuC"; */
+"xMw-sL-HuC.title" = "Profile";
